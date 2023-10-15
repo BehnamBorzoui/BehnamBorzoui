@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BehnamBorzoui
 - 👀 I’m interested in Binary
 - 🌱 I’m currently learning Golf Mechanisms
-- 💞️ I’m looking to collaborate on privacy policy
+- 💞️ I’m looking to collaborate on privacy policy statictics
 - 📫 How to reach me in mail me
 
 <!---
